@@ -1,0 +1,12 @@
+C:\Users\yodel\Desktop\ft-bootcamp\CSharp and DotNet\RockPaperScissors.Solution\RockPaperScissors\obj\Debug\net6.0\RockPaperScissors.csproj.AssemblyReference.cache
+C:\Users\yodel\Desktop\ft-bootcamp\CSharp and DotNet\RockPaperScissors.Solution\RockPaperScissors\obj\Debug\net6.0\RockPaperScissors.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\yodel\Desktop\ft-bootcamp\CSharp and DotNet\RockPaperScissors.Solution\RockPaperScissors\obj\Debug\net6.0\RockPaperScissors.AssemblyInfoInputs.cache
+C:\Users\yodel\Desktop\ft-bootcamp\CSharp and DotNet\RockPaperScissors.Solution\RockPaperScissors\obj\Debug\net6.0\RockPaperScissors.AssemblyInfo.cs
+C:\Users\yodel\Desktop\ft-bootcamp\CSharp and DotNet\RockPaperScissors.Solution\RockPaperScissors\obj\Debug\net6.0\RockPaperScissors.csproj.CoreCompileInputs.cache
+C:\Users\yodel\Desktop\ft-bootcamp\CSharp and DotNet\RockPaperScissors.Solution\RockPaperScissors\bin\Debug\net6.0\RockPaperScissors.deps.json
+C:\Users\yodel\Desktop\ft-bootcamp\CSharp and DotNet\RockPaperScissors.Solution\RockPaperScissors\bin\Debug\net6.0\RockPaperScissors.dll
+C:\Users\yodel\Desktop\ft-bootcamp\CSharp and DotNet\RockPaperScissors.Solution\RockPaperScissors\bin\Debug\net6.0\RockPaperScissors.pdb
+C:\Users\yodel\Desktop\ft-bootcamp\CSharp and DotNet\RockPaperScissors.Solution\RockPaperScissors\obj\Debug\net6.0\RockPaperScissors.dll
+C:\Users\yodel\Desktop\ft-bootcamp\CSharp and DotNet\RockPaperScissors.Solution\RockPaperScissors\obj\Debug\net6.0\refint\RockPaperScissors.dll
+C:\Users\yodel\Desktop\ft-bootcamp\CSharp and DotNet\RockPaperScissors.Solution\RockPaperScissors\obj\Debug\net6.0\RockPaperScissors.pdb
+C:\Users\yodel\Desktop\ft-bootcamp\CSharp and DotNet\RockPaperScissors.Solution\RockPaperScissors\obj\Debug\net6.0\ref\RockPaperScissors.dll

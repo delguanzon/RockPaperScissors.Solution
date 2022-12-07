@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "CnF+ROapdLF7707H9cebyzIp+cujB+vHXajidyRy19Xju6M661Mzi+s2IsUaOliz9Zm8bQ7YQ7HcWPkV+Bbkjg==",
+  "dgSpecHash": "sKH5zdACzUyHhkj3a+mVfEjjePRsUyBBWHpwN8ltnwIPLZNocW1oSc50Gmw6jEBcYNxzZ+jZ1iCfOHpc34QFsw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\yodel\\Desktop\\ft-bootcamp\\CSharp and DotNet\\ProjectName.Solution\\ProjectName.Tests\\ProjectName.Tests.csproj",
+  "projectFilePath": "C:\\Users\\yodel\\Desktop\\ft-bootcamp\\CSharp and DotNet\\RockPaperScissors.Solution\\RockPaperScissors.Tests\\RockPaperScissors.Tests.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\yodel\\.nuget\\packages\\microsoft.codecoverage\\17.3.2\\microsoft.codecoverage.17.3.2.nupkg.sha512",
     "C:\\Users\\yodel\\.nuget\\packages\\microsoft.csharp\\4.3.0\\microsoft.csharp.4.3.0.nupkg.sha512",

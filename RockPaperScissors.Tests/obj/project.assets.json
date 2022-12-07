@@ -1896,14 +1896,14 @@
           "lib/netstandard1.3/System.Xml.XmlDocument.dll": {}
         }
       },
-      "ProjectName/1.0.0": {
+      "RockPaperScissors/1.0.0": {
         "type": "project",
         "framework": ".NETCoreApp,Version=v6.0",
         "compile": {
-          "bin/placeholder/ProjectName.dll": {}
+          "bin/placeholder/RockPaperScissors.dll": {}
         },
         "runtime": {
-          "bin/placeholder/ProjectName.dll": {}
+          "bin/placeholder/RockPaperScissors.dll": {}
         }
       }
     }
@@ -6715,10 +6715,10 @@
         "system.xml.xmldocument.nuspec"
       ]
     },
-    "ProjectName/1.0.0": {
+    "RockPaperScissors/1.0.0": {
       "type": "project",
-      "path": "../ProjectName/ProjectName.csproj",
-      "msbuildProject": "../ProjectName/ProjectName.csproj"
+      "path": "../RockPaperScissors/RockPaperScissors.csproj",
+      "msbuildProject": "../RockPaperScissors/RockPaperScissors.csproj"
     }
   },
   "projectFileDependencyGroups": {
@@ -6726,7 +6726,7 @@
       "MSTest.TestAdapter >= 2.2.10",
       "MSTest.TestFramework >= 2.2.10",
       "Microsoft.NET.Test.Sdk >= 17.3.2",
-      "ProjectName >= 1.0.0"
+      "RockPaperScissors >= 1.0.0"
     ]
   },
   "packageFolders": {
@@ -6736,11 +6736,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\yodel\\Desktop\\ft-bootcamp\\CSharp and DotNet\\ProjectName.Solution\\ProjectName.Tests\\ProjectName.Tests.csproj",
-      "projectName": "ProjectName.Tests",
-      "projectPath": "C:\\Users\\yodel\\Desktop\\ft-bootcamp\\CSharp and DotNet\\ProjectName.Solution\\ProjectName.Tests\\ProjectName.Tests.csproj",
+      "projectUniqueName": "C:\\Users\\yodel\\Desktop\\ft-bootcamp\\CSharp and DotNet\\RockPaperScissors.Solution\\RockPaperScissors.Tests\\RockPaperScissors.Tests.csproj",
+      "projectName": "RockPaperScissors.Tests",
+      "projectPath": "C:\\Users\\yodel\\Desktop\\ft-bootcamp\\CSharp and DotNet\\RockPaperScissors.Solution\\RockPaperScissors.Tests\\RockPaperScissors.Tests.csproj",
       "packagesPath": "C:\\Users\\yodel\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\yodel\\Desktop\\ft-bootcamp\\CSharp and DotNet\\ProjectName.Solution\\ProjectName.Tests\\obj\\",
+      "outputPath": "C:\\Users\\yodel\\Desktop\\ft-bootcamp\\CSharp and DotNet\\RockPaperScissors.Solution\\RockPaperScissors.Tests\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "X:\\Program Files\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -6762,8 +6762,8 @@
         "net6.0": {
           "targetAlias": "net6.0",
           "projectReferences": {
-            "C:\\Users\\yodel\\Desktop\\ft-bootcamp\\CSharp and DotNet\\ProjectName.Solution\\ProjectName\\ProjectName.csproj": {
-              "projectPath": "C:\\Users\\yodel\\Desktop\\ft-bootcamp\\CSharp and DotNet\\ProjectName.Solution\\ProjectName\\ProjectName.csproj"
+            "C:\\Users\\yodel\\Desktop\\ft-bootcamp\\CSharp and DotNet\\RockPaperScissors.Solution\\RockPaperScissors\\RockPaperScissors.csproj": {
+              "projectPath": "C:\\Users\\yodel\\Desktop\\ft-bootcamp\\CSharp and DotNet\\RockPaperScissors.Solution\\RockPaperScissors\\RockPaperScissors.csproj"
             }
           }
         }

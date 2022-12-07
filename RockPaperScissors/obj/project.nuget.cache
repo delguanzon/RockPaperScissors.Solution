@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "V4MFEnbsL6FJzbTvHU4oh0Il9DJbNaFhmWiy1QJR667+xTerjsBJ044HPGw0dPflbthD9Uk7ikuill7ajXiRLQ==",
+  "dgSpecHash": "hif1285dgILNmI2x94T5fmzXwwr5vlK81OY2WiA5jTWlk/aEfuojdFTosJHVitusMeeRW5AIFtrhPZ9uxu11+g==",
   "success": true,
-  "projectFilePath": "C:\\Users\\yodel\\Desktop\\ft-bootcamp\\CSharp and DotNet\\ProjectName.Solution\\ProjectName\\ProjectName.csproj",
+  "projectFilePath": "C:\\Users\\yodel\\Desktop\\ft-bootcamp\\CSharp and DotNet\\RockPaperScissors.Solution\\RockPaperScissors\\RockPaperScissors.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\yodel\\Desktop\\ft-bootcamp\\CSharp and DotNet\\ProjectName.Solution\\ProjectName\\ProjectName.csproj",
-      "projectName": "ProjectName",
-      "projectPath": "C:\\Users\\yodel\\Desktop\\ft-bootcamp\\CSharp and DotNet\\ProjectName.Solution\\ProjectName\\ProjectName.csproj",
+      "projectUniqueName": "C:\\Users\\yodel\\Desktop\\ft-bootcamp\\CSharp and DotNet\\RockPaperScissors.Solution\\RockPaperScissors\\RockPaperScissors.csproj",
+      "projectName": "RockPaperScissors",
+      "projectPath": "C:\\Users\\yodel\\Desktop\\ft-bootcamp\\CSharp and DotNet\\RockPaperScissors.Solution\\RockPaperScissors\\RockPaperScissors.csproj",
       "packagesPath": "C:\\Users\\yodel\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\yodel\\Desktop\\ft-bootcamp\\CSharp and DotNet\\ProjectName.Solution\\ProjectName\\obj\\",
+      "outputPath": "C:\\Users\\yodel\\Desktop\\ft-bootcamp\\CSharp and DotNet\\RockPaperScissors.Solution\\RockPaperScissors\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "X:\\Program Files\\Microsoft Visual Studio\\Shared\\NuGetPackages"
