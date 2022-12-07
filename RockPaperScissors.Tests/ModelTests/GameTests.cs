@@ -19,9 +19,19 @@ namespace ProjectName.Tests
       string player1 = "Rock";
       string player2 = "Paper";
       Game game = new Game(player1, player2);
-      Assert.AreEqual(player1, game.Player1);
-      Assert.AreEqual(player2, game.Player2);
+      Assert.AreEqual("Player 1", game.Players[player1]);
+      Assert.AreEqual("Player 2", game.Players[player2]);
     }   
+
+    [TestMethod]
+    public void DetermineResult_ItWillReturnTheResult_Sting()
+    {
+      string player1 = "Paper";
+      string player2 = "Rock";
+      Game game = new Game(player1, player2);
+      string result = "Player 1";
+      Assert.AreEqual(result, game.DetermineResult());
+    }
 
   }
 }

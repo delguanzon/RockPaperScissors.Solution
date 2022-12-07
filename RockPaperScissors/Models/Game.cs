@@ -1,14 +1,31 @@
+using System.Collections.Generic;
+
 namespace RockPaperScissors.Models
 {
   public class Game
   {
-    public string Player1 {get;}
-    public string Player2 {get;}
+    public Dictionary<string, string> Players;
 
     public Game(string player1, string player2)
     {
-      Player1 = player1;
-      Player2 = player2;
+      
+      Dictionary<string, string> _players = new Dictionary<string, string>(){};
+      _players[player1] = "Player 1";
+      _players[player2] = "Player 2";
+      Players = _players;
+      
+    }
+
+    public string DetermineResult()
+    {
+      string result = "";
+      List<string> keysList = new List<string>(Players.Keys);
+      
+      if(keysList.Contains("Paper") && keysList.Contains("Rock"))
+      {
+        result = Players["Paper"];
+      }
+      return result;
     }
   }
 }
