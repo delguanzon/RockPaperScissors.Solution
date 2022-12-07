@@ -53,5 +53,14 @@ namespace ProjectName.Tests
       Assert.AreEqual(result, game.DetermineResult());
     }
 
+    [TestMethod]
+    public void DetermineResult_ItWillReturnDrawForSimilarHands_Sting()
+    {
+      string player1 = "Scissors";
+      string player2 = "Scissors";
+      Game game = new Game(player1, player2);
+      string result = "Draw";
+      Assert.AreEqual(result, game.DetermineResult());
+    }
   }
 }
