@@ -8,12 +8,11 @@ namespace RockPaperScissors.Models
 
     public Game(string player1, string player2)
     {
-      
+
       Dictionary<string, string> _players = new Dictionary<string, string>(){};
-      _players[player1] = "Player 1";
-      _players[player2] = "Player 2";
+      _players[player1.ToLower()] = "Player 1";
+      _players[player2.ToLower()] = "Player 2";
       Players = _players;
-      
     }
 
     public string DetermineResult()
@@ -21,15 +20,15 @@ namespace RockPaperScissors.Models
       string result = "";
       List<string> keysList = new List<string>(Players.Keys);
       
-      if(keysList.Contains("Paper") && keysList.Contains("Rock"))
+      if(keysList.Contains("paper") && keysList.Contains("rock"))
       {
-        result = Players["Paper"];
+        result = Players["paper"];
       }
-      else if (keysList.Contains("Scissors") && keysList.Contains("Rock")) {
-        result = Players["Rock"];
+      else if (keysList.Contains("scissors") && keysList.Contains("rock")) {
+        result = Players["rock"];
       }
-      else if (keysList.Contains("Paper") && keysList.Contains("Scissors")) {
-        result = Players["Scissors"];
+      else if (keysList.Contains("paper") && keysList.Contains("scissors")) {
+        result = Players["scissors"];
       }
       else 
       {
