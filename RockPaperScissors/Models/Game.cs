@@ -28,6 +28,9 @@ namespace RockPaperScissors.Models
       else if (keysList.Contains("Scissors") && keysList.Contains("Rock")) {
         result = Players["Rock"];
       }
+      else if (keysList.Contains("Paper") && keysList.Contains("Scissors")) {
+        result = Players["Scissors"];
+      }
       return result;
     }
   }

@@ -43,5 +43,15 @@ namespace ProjectName.Tests
       Assert.AreEqual(result, game.DetermineResult());
     }
 
+    [TestMethod]
+    public void DetermineResult_ItWillReturnTheWinnerForPaperVsScissors_Sting()
+    {
+      string player1 = "Scissors";
+      string player2 = "Paper";
+      Game game = new Game(player1, player2);
+      string result = "Player 1";
+      Assert.AreEqual(result, game.DetermineResult());
+    }
+
   }
 }
