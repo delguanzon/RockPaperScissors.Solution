@@ -24,12 +24,22 @@ namespace ProjectName.Tests
     }   
 
     [TestMethod]
-    public void DetermineResult_ItWillReturnTheResult_Sting()
+    public void DetermineResult_ItWillReturnTheWinnerForPaperVsRock_Sting()
     {
       string player1 = "Paper";
       string player2 = "Rock";
       Game game = new Game(player1, player2);
       string result = "Player 1";
+      Assert.AreEqual(result, game.DetermineResult());
+    }
+
+    [TestMethod]
+    public void DetermineResult_ItWillReturnTheWinnerForRockVsScissors_Sting()
+    {
+      string player1 = "Scissors";
+      string player2 = "Rock";
+      Game game = new Game(player1, player2);
+      string result = "Player 2";
       Assert.AreEqual(result, game.DetermineResult());
     }
 
